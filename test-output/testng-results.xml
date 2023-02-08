@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="0" failed="1" skipped="2">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-08T04:51:47Z" name="Sanity Test Suite" finished-at="2023-02-08T04:52:40Z" duration-ms="53531">
+    <groups>
+    </groups>
+    <test started-at="2023-02-08T04:51:47Z" name="Computer Tests" finished-at="2023-02-08T04:52:40Z" duration-ms="53531">
+      <class name="com.demoshop.tests.ComputerPageTests">
+        <test-method is-config="true" signature="killProcesses()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:51:47Z" name="killProcesses" finished-at="2023-02-08T15:51:47Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcesses -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:51:47Z" name="beforeClass" finished-at="2023-02-08T15:51:52Z" duration-ms="4726" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ComputerPageTests]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:51:52Z" name="beforeMethod" finished-at="2023-02-08T15:52:05Z" duration-ms="13519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demoshop.tests.ComputerPageTests.pressComputerTab() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="pressComputerTab()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:52:05Z" name="pressComputerTab" description="GCL_AUT02 -Verify Home page is loaded successfully" finished-at="2023-02-08T15:52:15Z" duration-ms="9540" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[MethodName:Click_Button_Xpath, ErrorMsg:Element not found for clicking, Object:Expensive Desktop, Exception:java.lang.IllegalArgumentException: Cannot find elements when the XPath is null. expected [0] but found [1]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: MethodName:Click_Button_Xpath, ErrorMsg:Element not found for clicking, Object:Expensive Desktop, Exception:java.lang.IllegalArgumentException: Cannot find elements when the XPath is null. expected [0] but found [1]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:389)
+	at com.demoshop.main.SelLibrary.assertCheck(SelLibrary.java:74)
+	at com.demoshop.main.SelLibrary.Click_Button_Xpath(SelLibrary.java:162)
+	at com.demoshop.pages.ComputerPage.selectExpensiveDesktop(ComputerPage.java:33)
+	at com.demoshop.tests.ComputerPageTests.pressComputerTab(ComputerPageTests.java:15)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pressComputerTab -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:52:15Z" name="afterMethod" finished-at="2023-02-08T15:52:15Z" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:52:15Z" name="beforeMethod" finished-at="2023-02-08T15:52:19Z" duration-ms="4391" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demoshop.tests.ComputerPageTests.pressComputerTab() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="pressComputerTab()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:52:19Z" name="pressComputerTab" description="GCL_AUT02 -Verify Home page is loaded successfully" finished-at="2023-02-08T15:52:28Z" duration-ms="8553" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[MethodName:Click_Button_Xpath, ErrorMsg:Element not found for clicking, Object:Expensive Desktop, Exception:java.lang.IllegalArgumentException: Cannot find elements when the XPath is null. expected [0] but found [1]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: MethodName:Click_Button_Xpath, ErrorMsg:Element not found for clicking, Object:Expensive Desktop, Exception:java.lang.IllegalArgumentException: Cannot find elements when the XPath is null. expected [0] but found [1]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:389)
+	at com.demoshop.main.SelLibrary.assertCheck(SelLibrary.java:74)
+	at com.demoshop.main.SelLibrary.Click_Button_Xpath(SelLibrary.java:162)
+	at com.demoshop.pages.ComputerPage.selectExpensiveDesktop(ComputerPage.java:33)
+	at com.demoshop.tests.ComputerPageTests.pressComputerTab(ComputerPageTests.java:15)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:967)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pressComputerTab -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:52:28Z" name="afterMethod" finished-at="2023-02-08T15:52:28Z" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:52:28Z" name="beforeMethod" finished-at="2023-02-08T15:52:32Z" duration-ms="3998" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demoshop.tests.ComputerPageTests.pressComputerTab() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="pressComputerTab()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:52:32Z" name="pressComputerTab" description="GCL_AUT02 -Verify Home page is loaded successfully" finished-at="2023-02-08T15:52:40Z" duration-ms="7471" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[MethodName:Click_Button_Xpath, ErrorMsg:Element not found for clicking, Object:Expensive Desktop, Exception:java.lang.IllegalArgumentException: Cannot find elements when the XPath is null. expected [0] but found [1]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: MethodName:Click_Button_Xpath, ErrorMsg:Element not found for clicking, Object:Expensive Desktop, Exception:java.lang.IllegalArgumentException: Cannot find elements when the XPath is null. expected [0] but found [1]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:389)
+	at com.demoshop.main.SelLibrary.assertCheck(SelLibrary.java:74)
+	at com.demoshop.main.SelLibrary.Click_Button_Xpath(SelLibrary.java:162)
+	at com.demoshop.pages.ComputerPage.selectExpensiveDesktop(ComputerPage.java:33)
+	at com.demoshop.tests.ComputerPageTests.pressComputerTab(ComputerPageTests.java:15)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:967)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pressComputerTab -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:52:40Z" name="afterMethod" finished-at="2023-02-08T15:52:40Z" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-08T15:52:40Z" name="afterTest" finished-at="2023-02-08T15:52:40Z" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.demoshop.tests.ComputerPageTests -->
+    </test> <!-- Computer Tests -->
+  </suite> <!-- Sanity Test Suite -->
+</testng-results>

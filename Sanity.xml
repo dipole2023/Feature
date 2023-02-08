@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sanity Test Suite" thread-count="1" preserve-order="true" parallel="tests">
+
+	<listeners>
+		<listener class-name="com.demoshop.utilities.Reporting" />
+		<listener class-name="com.demoshop.utilities.AnnotationTransformer" />
+	</listeners>
+
+	<parameter name="browser" value="Chrome"></parameter>
+
+	<!-- <test name="Login Tests">
+		<parameter name="sheetname" value="LoginTests"></parameter>
+		<classes>
+			<class name="com.demoshop.tests.LoginTests">
+				<methods>
+					<include name="validateUserLoginWithValidCredentials" />
+				</methods>
+			</class>
+		</classes>
+	</test> -->
+
+	 	<test name="Computer Tests">
+	 		<parameter name="sheetname" value="ComputerPageTests" />
+	 		<classes>
+	 			<class name="com.demoshop.tests.ComputerPageTests">
+	 				<methods>
+	 					<include name="pressComputerTab" />
+	 				</methods>
+	 			</class>
+	 		</classes>
+	 	</test>
+
+</suite>

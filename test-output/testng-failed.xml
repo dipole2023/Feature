@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Sanity Test Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="Chrome"/>
+  <parameter name="sheetname" value="ComputerPageTests"/>
+  <listeners>
+    <listener class-name="com.demoshop.utilities.Reporting"/>
+    <listener class-name="com.demoshop.utilities.AnnotationTransformer"/>
+  </listeners>
+  <test name="Computer Tests">
+    <parameter name="sheetname" value="ComputerPageTests"/>
+    <classes>
+      <class name="com.demoshop.tests.ComputerPageTests">
+        <methods>
+          <include name="pressComputerTab"/>
+        </methods>
+      </class> <!-- com.demoshop.tests.ComputerPageTests -->
+    </classes>
+  </test> <!-- Computer Tests -->
+  <test parallel="tests" name="Computer Tests(failed)">
+    <parameter name="sheetname" value="ComputerPageTests"/>
+    <classes>
+      <class name="com.demoshop.tests.ComputerPageTests">
+        <methods>
+          <include name="afterTest"/>
+          <include name="pressComputerTab"/>
+          <include name="afterMethod"/>
+          <include name="killProcesses"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.demoshop.tests.ComputerPageTests -->
+    </classes>
+  </test> <!-- Computer Tests(failed) -->
+</suite> <!-- Failed suite [Sanity Test Suite] -->

@@ -1,0 +1,143 @@
+2023-02-06 10:27:25 debugLogger:1 [ERROR] java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+2023-02-06 10:27:25 debugLogger:1 [INFO] TCID match found
+2023-02-06 10:27:25 debugLogger:1 [INFO] TEST STARTED:validateUserLoginWithValidCredentials
+2023-02-06 10:28:40 debugLogger:1 [ERROR] java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+2023-02-06 10:28:40 debugLogger:1 [INFO] TCID match found
+2023-02-06 10:28:40 debugLogger:1 [INFO] TEST STARTED:validateUserLoginWithValidCredentials
+2023-02-06 10:42:35 debugLogger:1 [ERROR] java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+2023-02-06 10:42:35 debugLogger:1 [INFO] TCID match found
+2023-02-06 10:42:35 debugLogger:1 [INFO] TEST STARTED:validateUserLoginWithValidCredentials
+2023-02-06 10:48:10 debugLogger:1 [INFO] TCID match found
+2023-02-06 10:48:10 debugLogger:1 [INFO] TEST STARTED:validateUserLoginWithValidCredentials
+2023-02-06 10:48:11 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-06 10:48:12 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-06 10:48:12 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-06 10:48:12 debugLogger:17 [INFO] Text cleared for password
+2023-02-06 10:48:12 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-06 10:48:14 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-06 12:25:52 debugLogger:1 [INFO] TCID match found
+2023-02-06 12:25:52 debugLogger:1 [INFO] TEST STARTED:validateUserLoginWithValidCredentials
+2023-02-06 12:25:53 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-06 12:25:53 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-06 12:25:53 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-06 12:25:53 debugLogger:17 [INFO] Text cleared for password
+2023-02-06 12:25:54 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-06 12:25:55 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-06 13:50:41 debugLogger:1 [INFO] TCID match found
+2023-02-06 13:50:41 debugLogger:1 [INFO] TEST STARTED:validateUserLoginWithValidCredentials
+2023-02-06 13:50:42 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-06 13:50:42 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-06 13:50:43 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-06 13:50:43 debugLogger:17 [INFO] Text cleared for password
+2023-02-06 13:50:43 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-06 13:50:45 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-06 14:06:36 debugLogger:1 [INFO] TCID match found
+2023-02-06 14:06:36 debugLogger:1 [INFO] TEST STARTED:validateUserLoginWithValidCredentials
+2023-02-06 14:06:38 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-06 14:06:38 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-06 14:06:38 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-06 14:06:38 debugLogger:17 [INFO] Text cleared for password
+2023-02-06 14:06:38 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-06 14:06:40 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-06 14:32:48 debugLogger:1 [INFO] TCID match found
+2023-02-06 14:32:48 debugLogger:1 [INFO] TEST STARTED:validateUserLoginWithValidCredentials
+2023-02-06 14:32:50 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-06 14:32:50 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-06 14:32:50 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-06 14:32:50 debugLogger:17 [INFO] Text cleared for password
+2023-02-06 14:32:50 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-06 14:32:52 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-06 14:33:01 debugLogger:1 [INFO] TCID match found
+2023-02-06 14:33:01 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 14:33:01 debugLogger:17 [INFO] Logging in...
+2023-02-06 14:33:01 debugLogger:17 [ERROR] Username is blank
+2023-02-06 14:33:05 debugLogger:1 [INFO] TCID match found
+2023-02-06 14:33:05 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 14:33:05 debugLogger:17 [INFO] Logging in...
+2023-02-06 14:33:05 debugLogger:17 [ERROR] Username is blank
+2023-02-06 14:33:09 debugLogger:1 [INFO] TCID match found
+2023-02-06 14:33:09 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 14:33:09 debugLogger:17 [INFO] Logging in...
+2023-02-06 14:33:09 debugLogger:17 [ERROR] Username is blank
+2023-02-06 14:45:24 debugLogger:1 [INFO] TCID match found
+2023-02-06 14:45:24 debugLogger:1 [INFO] TEST STARTED:validateUserLoginWithValidCredentials
+2023-02-06 14:45:26 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-06 14:45:26 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-06 14:45:26 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-06 14:45:26 debugLogger:17 [INFO] Text cleared for password
+2023-02-06 14:45:27 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-06 14:45:28 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-06 14:45:37 debugLogger:1 [INFO] TCID match found
+2023-02-06 14:45:37 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 14:45:37 debugLogger:17 [INFO] Logging in...
+2023-02-06 14:45:37 debugLogger:17 [ERROR] Username is blank
+2023-02-06 14:45:41 debugLogger:1 [INFO] TCID match found
+2023-02-06 14:45:41 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 15:33:02 debugLogger:1 [INFO] TCID match found
+2023-02-06 15:33:02 debugLogger:1 [INFO] TEST STARTED:validateUserLoginWithValidCredentials
+2023-02-06 15:33:03 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-06 15:33:03 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-06 15:33:04 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-06 15:33:04 debugLogger:17 [INFO] Text cleared for password
+2023-02-06 15:33:04 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-06 15:33:06 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-06 15:33:15 debugLogger:1 [INFO] TCID match found
+2023-02-06 15:33:15 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 15:33:15 debugLogger:17 [INFO] Logging in...
+2023-02-06 15:33:15 debugLogger:17 [ERROR] Username is blank
+2023-02-06 15:33:20 debugLogger:1 [INFO] TCID match found
+2023-02-06 15:33:20 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 15:33:20 debugLogger:17 [INFO] Logging in...
+2023-02-06 15:33:20 debugLogger:17 [ERROR] Username is blank
+2023-02-06 15:33:24 debugLogger:1 [INFO] TCID match found
+2023-02-06 15:33:24 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 15:33:24 debugLogger:17 [INFO] Logging in...
+2023-02-06 15:33:24 debugLogger:17 [ERROR] Username is blank
+2023-02-06 16:16:10 debugLogger:1 [INFO] TCID match found
+2023-02-06 16:16:10 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 16:16:10 debugLogger:17 [INFO] Logging in...
+2023-02-06 16:16:10 debugLogger:17 [ERROR] Username is blank
+2023-02-06 16:16:14 debugLogger:1 [INFO] TCID match found
+2023-02-06 16:16:14 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 16:16:14 debugLogger:17 [INFO] Logging in...
+2023-02-06 16:16:14 debugLogger:17 [ERROR] Username is blank
+2023-02-06 16:16:18 debugLogger:1 [INFO] TCID match found
+2023-02-06 16:16:18 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 16:16:18 debugLogger:17 [INFO] Logging in...
+2023-02-06 16:16:18 debugLogger:17 [ERROR] Username is blank
+2023-02-06 16:19:03 debugLogger:1 [INFO] TCID match found
+2023-02-06 16:19:03 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 16:19:03 debugLogger:17 [INFO] Logging in...
+2023-02-06 16:19:03 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-06 16:19:03 debugLogger:17 [INFO] password for test isTest@123
+2023-02-06 16:19:04 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-06 16:19:04 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-06 16:19:04 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-06 16:19:04 debugLogger:17 [INFO] Text cleared for password
+2023-02-06 16:19:05 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-06 16:19:06 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-06 16:19:08 debugLogger:17 [INFO] Login successfully
+2023-02-06 16:19:13 debugLogger:1 [INFO] TCID match found
+2023-02-06 16:19:13 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 16:19:13 debugLogger:17 [INFO] Logging in...
+2023-02-06 16:19:13 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-06 16:19:13 debugLogger:17 [INFO] password for test isTest@123
+2023-02-06 16:19:14 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-06 16:19:14 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-06 16:19:14 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-06 16:19:14 debugLogger:17 [INFO] Text cleared for password
+2023-02-06 16:19:14 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-06 16:19:16 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-06 16:19:18 debugLogger:17 [INFO] Login successfully
+2023-02-06 16:19:22 debugLogger:1 [INFO] TCID match found
+2023-02-06 16:19:22 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-06 16:19:22 debugLogger:17 [INFO] Logging in...
+2023-02-06 16:19:22 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-06 16:19:22 debugLogger:17 [INFO] password for test isTest@123
+2023-02-06 16:19:23 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-06 16:19:23 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-06 16:19:24 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-06 16:19:24 debugLogger:17 [INFO] Text cleared for password
+2023-02-06 16:19:24 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-06 16:19:26 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-06 16:19:28 debugLogger:17 [INFO] Login successfully

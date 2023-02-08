@@ -1,0 +1,400 @@
+2023-02-08 11:04:20 debugLogger:1 [INFO] TCID match found
+2023-02-08 11:04:20 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 11:04:20 debugLogger:17 [INFO] Logging in...
+2023-02-08 11:04:20 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 11:04:20 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 11:04:21 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 11:04:22 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 11:04:22 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 11:04:22 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 11:04:23 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 11:04:25 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 11:04:27 debugLogger:17 [INFO] Login successfully
+2023-02-08 11:04:32 debugLogger:1 [INFO] TCID match found
+2023-02-08 11:04:32 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 11:04:32 debugLogger:17 [INFO] Logging in...
+2023-02-08 11:04:32 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 11:04:32 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 11:04:33 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 11:04:33 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 11:04:34 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 11:04:34 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 11:04:34 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 11:04:36 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 11:04:38 debugLogger:17 [INFO] Login successfully
+2023-02-08 11:04:43 debugLogger:1 [INFO] TCID match found
+2023-02-08 11:04:43 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 11:04:43 debugLogger:17 [INFO] Logging in...
+2023-02-08 11:04:43 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 11:04:43 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 11:04:44 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 11:04:44 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 11:04:45 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 11:04:45 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 11:04:45 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 11:04:46 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 11:04:48 debugLogger:17 [INFO] Login successfully
+2023-02-08 11:33:13 debugLogger:1 [INFO] TCID match found
+2023-02-08 11:33:13 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 11:33:13 debugLogger:17 [INFO] Logging in...
+2023-02-08 11:33:13 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 11:33:13 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 11:33:15 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 11:33:15 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 11:33:16 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 11:33:16 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 11:33:16 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 11:33:18 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 11:33:20 debugLogger:17 [INFO] Login successfully
+2023-02-08 11:33:25 debugLogger:1 [INFO] TCID match found
+2023-02-08 11:33:25 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 11:33:25 debugLogger:17 [INFO] Logging in...
+2023-02-08 11:33:25 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 11:33:25 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 11:33:27 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 11:33:27 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 11:33:28 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 11:33:28 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 11:33:28 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 11:33:30 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 11:33:32 debugLogger:17 [INFO] Login successfully
+2023-02-08 11:33:37 debugLogger:1 [INFO] TCID match found
+2023-02-08 11:33:37 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 11:33:37 debugLogger:17 [INFO] Logging in...
+2023-02-08 11:33:37 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 11:33:37 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 11:33:38 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 11:33:38 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 11:33:39 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 11:33:39 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 11:33:39 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 11:33:41 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 11:33:43 debugLogger:17 [INFO] Login successfully
+2023-02-08 11:44:27 debugLogger:1 [INFO] TCID match found
+2023-02-08 11:44:27 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 11:44:27 debugLogger:17 [INFO] Logging in...
+2023-02-08 11:44:27 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 11:44:27 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 11:44:29 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 11:44:30 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 11:44:30 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 11:44:30 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 11:44:31 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 11:44:33 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 11:44:35 debugLogger:17 [INFO] Login successfully
+2023-02-08 11:44:42 debugLogger:1 [INFO] TCID match found
+2023-02-08 11:44:42 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 11:44:42 debugLogger:17 [INFO] Logging in...
+2023-02-08 11:44:42 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 11:44:42 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 11:44:44 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 11:44:44 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 11:44:44 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 11:44:45 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 11:44:45 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 11:44:47 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 11:44:49 debugLogger:17 [INFO] Login successfully
+2023-02-08 11:44:54 debugLogger:1 [INFO] TCID match found
+2023-02-08 11:44:54 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 11:44:54 debugLogger:17 [INFO] Logging in...
+2023-02-08 11:44:54 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 11:44:54 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 11:44:56 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 11:44:56 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 11:44:56 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 11:44:56 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 11:44:57 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 11:44:59 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 11:45:01 debugLogger:17 [INFO] Login successfully
+2023-02-08 11:53:04 debugLogger:1 [INFO] TCID match found
+2023-02-08 11:53:04 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 11:53:04 debugLogger:20 [INFO] Logging in...
+2023-02-08 11:53:04 debugLogger:20 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 11:53:04 debugLogger:20 [INFO] password for test isTest@123
+2023-02-08 11:53:05 debugLogger:20 [INFO] Element is found and clicked: loginlink
+2023-02-08 11:53:05 debugLogger:20 [INFO] Text cleared for emailid
+2023-02-08 11:53:05 debugLogger:20 [INFO] Data entered for text box: emailid
+2023-02-08 11:53:06 debugLogger:20 [INFO] Text cleared for password
+2023-02-08 11:53:06 debugLogger:20 [INFO] Data entered for text box: password
+2023-02-08 11:53:08 debugLogger:20 [INFO] Element is found and clicked: login button
+2023-02-08 11:53:10 debugLogger:20 [INFO] Login successfully
+2023-02-08 12:54:01 debugLogger:1 [INFO] TCID match found
+2023-02-08 12:54:01 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 12:54:01 debugLogger:20 [INFO] Logging in...
+2023-02-08 12:54:01 debugLogger:20 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 12:54:01 debugLogger:20 [INFO] password for test isTest@123
+2023-02-08 12:54:02 debugLogger:20 [INFO] Element is found and clicked: loginlink
+2023-02-08 12:54:03 debugLogger:20 [INFO] Text cleared for emailid
+2023-02-08 12:54:03 debugLogger:20 [INFO] Data entered for text box: emailid
+2023-02-08 12:54:03 debugLogger:20 [INFO] Text cleared for password
+2023-02-08 12:54:03 debugLogger:20 [INFO] Data entered for text box: password
+2023-02-08 12:54:06 debugLogger:20 [INFO] Element is found and clicked: login button
+2023-02-08 12:54:08 debugLogger:20 [INFO] Login successfully
+2023-02-08 12:54:48 debugLogger:20 [ERROR] Element not found for clicking: Computer linke
+2023-02-08 12:57:52 debugLogger:1 [INFO] TCID match found
+2023-02-08 12:57:52 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 12:57:52 debugLogger:17 [INFO] Logging in...
+2023-02-08 12:57:52 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 12:57:52 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 12:57:53 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 12:57:53 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 12:57:54 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 12:57:54 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 12:57:54 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 12:57:56 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 12:57:58 debugLogger:17 [INFO] Login successfully
+2023-02-08 12:58:00 debugLogger:17 [INFO] Element is found and clicked: Computer linke
+2023-02-08 13:42:07 debugLogger:1 [INFO] TCID match found
+2023-02-08 13:42:07 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 13:42:07 debugLogger:17 [INFO] Logging in...
+2023-02-08 13:42:07 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 13:42:07 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 13:42:09 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 13:42:09 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 13:42:09 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 13:42:10 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 13:42:10 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 13:42:11 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 13:42:13 debugLogger:17 [INFO] Login successfully
+2023-02-08 13:42:15 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 13:42:16 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 13:42:42 debugLogger:1 [INFO] TCID match found
+2023-02-08 13:42:42 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 13:42:42 debugLogger:17 [INFO] Logging in...
+2023-02-08 13:42:42 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 13:42:42 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 13:42:43 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 13:42:43 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 13:42:44 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 13:42:44 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 13:42:44 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 13:42:45 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 13:42:47 debugLogger:17 [INFO] Login successfully
+2023-02-08 13:42:49 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 13:42:50 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 14:47:47 debugLogger:1 [INFO] TCID match found
+2023-02-08 14:47:47 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 14:47:47 debugLogger:17 [INFO] Logging in...
+2023-02-08 14:47:47 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 14:47:47 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 14:47:48 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 14:47:48 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 14:47:49 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 14:47:49 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 14:47:49 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 14:47:51 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 14:47:53 debugLogger:17 [INFO] Login successfully
+2023-02-08 14:47:55 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 15:24:08 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:24:08 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:24:08 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:24:08 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:24:08 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:24:09 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:24:09 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:24:09 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:24:10 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:24:10 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:24:11 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:24:13 debugLogger:17 [INFO] Login successfully
+2023-02-08 15:24:15 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 15:24:16 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 15:24:16 debugLogger:17 [ERROR] Element not found for clicking: Expensive Desktop
+2023-02-08 15:24:20 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:24:20 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:24:20 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:24:20 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:24:20 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:24:22 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:24:22 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:24:22 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:24:22 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:24:23 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:24:24 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:24:26 debugLogger:17 [INFO] Login successfully
+2023-02-08 15:24:28 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 15:24:29 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 15:24:29 debugLogger:17 [ERROR] Element not found for clicking: Expensive Desktop
+2023-02-08 15:24:33 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:24:33 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:24:33 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:24:33 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:24:33 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:24:34 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:24:34 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:24:35 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:24:35 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:24:35 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:24:37 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:24:39 debugLogger:17 [INFO] Login successfully
+2023-02-08 15:24:40 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 15:24:41 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 15:24:41 debugLogger:17 [ERROR] Element not found for clicking: Expensive Desktop
+2023-02-08 15:43:44 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:43:44 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:43:44 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:43:44 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:43:44 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:43:46 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:43:46 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:43:46 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:43:46 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:43:47 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:43:48 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:43:50 debugLogger:17 [INFO] Login successfully
+2023-02-08 15:43:52 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 15:43:54 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 15:43:54 debugLogger:17 [ERROR] Element not found for clicking: Expensive Desktop
+2023-02-08 15:43:58 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:43:58 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:43:58 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:43:58 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:43:58 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:43:59 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:44:00 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:44:00 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:44:01 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:44:01 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:44:03 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:44:05 debugLogger:17 [INFO] Login successfully
+2023-02-08 15:44:07 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 15:44:09 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 15:44:09 debugLogger:17 [ERROR] Element not found for clicking: Expensive Desktop
+2023-02-08 15:44:14 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:44:14 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:44:14 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:44:14 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:44:14 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:44:17 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:44:17 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:44:18 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:44:18 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:44:19 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:44:21 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:52:05 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:52:05 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:52:05 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:52:05 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:52:05 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:52:07 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:52:07 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:52:07 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:52:07 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:52:08 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:52:10 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:52:12 debugLogger:17 [INFO] Login successfully
+2023-02-08 15:52:13 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 15:52:15 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 15:52:15 debugLogger:17 [ERROR] Element not found for clicking: Expensive Desktop
+2023-02-08 15:52:19 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:52:19 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:52:19 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:52:19 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:52:19 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:52:21 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:52:21 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:52:21 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:52:21 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:52:22 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:52:23 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:52:25 debugLogger:17 [INFO] Login successfully
+2023-02-08 15:52:27 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 15:52:28 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 15:52:28 debugLogger:17 [ERROR] Element not found for clicking: Expensive Desktop
+2023-02-08 15:52:32 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:52:32 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:52:32 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:52:32 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:52:32 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:52:33 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:52:33 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:52:34 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:52:34 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:52:34 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:52:36 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:52:38 debugLogger:17 [INFO] Login successfully
+2023-02-08 15:52:39 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 15:52:40 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 15:52:40 debugLogger:17 [ERROR] Element not found for clicking: Expensive Desktop
+2023-02-08 15:53:27 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:53:27 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:53:27 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:53:27 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:53:27 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:53:28 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:53:28 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:53:29 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:53:29 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:53:29 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:53:30 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:53:32 debugLogger:17 [INFO] Login successfully
+2023-02-08 15:53:34 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 15:53:35 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 15:53:35 debugLogger:17 [ERROR] Element not found for clicking: Expensive Desktop
+2023-02-08 15:53:39 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:53:39 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:53:39 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:53:39 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:53:39 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:53:41 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:53:41 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:53:41 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:53:41 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:53:41 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:53:43 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:53:45 debugLogger:17 [INFO] Login successfully
+2023-02-08 15:53:46 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 15:53:47 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 15:53:47 debugLogger:17 [ERROR] Element not found for clicking: Expensive Desktop
+2023-02-08 15:53:52 debugLogger:1 [INFO] TCID match found
+2023-02-08 15:53:52 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 15:53:52 debugLogger:17 [INFO] Logging in...
+2023-02-08 15:53:52 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 15:53:52 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 15:53:53 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 15:53:53 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 15:53:54 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 15:53:54 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 15:53:54 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 15:53:56 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 15:53:58 debugLogger:17 [INFO] Login successfully
+2023-02-08 16:13:09 debugLogger:1 [INFO] TCID match found
+2023-02-08 16:13:09 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 16:13:09 debugLogger:17 [INFO] Logging in...
+2023-02-08 16:13:09 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 16:13:09 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 16:13:10 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 16:13:10 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 16:13:11 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 16:13:11 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 16:13:11 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 16:13:13 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 16:13:15 debugLogger:17 [INFO] Login successfully
+2023-02-08 16:13:16 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 16:13:17 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 16:13:17 debugLogger:17 [ERROR] Element not found for clicking: Cheap Desktop
+2023-02-08 16:13:22 debugLogger:1 [INFO] TCID match found
+2023-02-08 16:13:22 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 16:13:22 debugLogger:17 [INFO] Logging in...
+2023-02-08 16:13:22 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 16:13:22 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 16:13:23 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 16:13:24 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 16:13:24 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 16:13:24 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 16:13:25 debugLogger:17 [INFO] Data entered for text box: password
+2023-02-08 16:13:27 debugLogger:17 [INFO] Element is found and clicked: login button
+2023-02-08 16:13:29 debugLogger:17 [INFO] Login successfully
+2023-02-08 16:13:30 debugLogger:17 [INFO] Element is found and clicked: Computer link
+2023-02-08 16:13:32 debugLogger:17 [INFO] Element is found and clicked: Desktop Option
+2023-02-08 16:13:32 debugLogger:17 [ERROR] Element not found for clicking: Cheap Desktop
+2023-02-08 16:13:37 debugLogger:1 [INFO] TCID match found
+2023-02-08 16:13:37 debugLogger:1 [INFO] TEST STARTED:pressComputerTab
+2023-02-08 16:13:37 debugLogger:17 [INFO] Logging in...
+2023-02-08 16:13:37 debugLogger:17 [INFO] Email id for test isdipolegroup2023@gmail.com
+2023-02-08 16:13:37 debugLogger:17 [INFO] password for test isTest@123
+2023-02-08 16:13:38 debugLogger:17 [INFO] Element is found and clicked: loginlink
+2023-02-08 16:13:38 debugLogger:17 [INFO] Text cleared for emailid
+2023-02-08 16:13:39 debugLogger:17 [INFO] Data entered for text box: emailid
+2023-02-08 16:13:39 debugLogger:17 [INFO] Text cleared for password
+2023-02-08 16:13:39 debugLogger:17 [INFO] Data entered for text box: password
