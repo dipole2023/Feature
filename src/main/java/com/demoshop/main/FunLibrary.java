@@ -63,10 +63,10 @@ public class FunLibrary extends SelLibrary {
 				LoginPage loginpage = new LoginPage();
 				loginpage.clickLogin().shopLogin();
 				wait(2000);
-				testLog.info("Login successfully.");
+				testLog.info("Login successful.");
 			} else {
 				testLog.error("Username is blank.");
-				fail("login failed!! Username is blank");
+				fail("login failed!! Username is blank.");
 			}
 
 		} catch (Exception e) {

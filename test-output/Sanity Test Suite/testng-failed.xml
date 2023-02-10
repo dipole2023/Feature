@@ -17,19 +17,4 @@
       </class> <!-- com.demoshop.tests.ComputerPageTests -->
     </classes>
   </test> <!-- Computer Tests -->
-  <test parallel="tests" name="Computer Tests(failed)">
-    <parameter name="sheetname" value="ComputerPageTests"/>
-    <classes>
-      <class name="com.demoshop.tests.ComputerPageTests">
-        <methods>
-          <include name="afterTest"/>
-          <include name="pressComputerTab"/>
-          <include name="afterMethod"/>
-          <include name="killProcesses"/>
-          <include name="beforeClass"/>
-          <include name="beforeMethod"/>
-        </methods>
-      </class> <!-- com.demoshop.tests.ComputerPageTests -->
-    </classes>
-  </test> <!-- Computer Tests(failed) -->
 </suite> <!-- Failed suite [Sanity Test Suite] -->

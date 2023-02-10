@@ -139,7 +139,7 @@ public class SelLibrary {
 			wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpath)));
 			wait.until(ExpectedConditions.elementToBeClickable(By.xpath(xpath)));
 			driver.findElement(By.xpath(xpath)).click();
-			testLog.info("Element is found and clicked: " + ObjName);
+			testLog.info("Clicked element: " + ObjName);
 		} catch (Exception ex) {
 			try {
 				//wait(1000);
@@ -156,10 +156,10 @@ public class SelLibrary {
 				JavascriptExecutor executor = (JavascriptExecutor) driver;
 				executor.executeScript("arguments[0].click();", element);
 
-				testLog.info("Element is found and clicked: " + ObjName);
+				testLog.info("Clicked element: " + ObjName);
 			} catch (Exception e) {
-				testLog.error("Element not found for clicking: " + ObjName);
-				assertCheck("Click_Button_Xpath", "Element not found for clicking", ObjName, e);
+				testLog.error("Element not found: " + ObjName);
+				assertCheck("Click_Button_Xpath", "Element not found ", ObjName, e);
 			}
 		}
 	}
