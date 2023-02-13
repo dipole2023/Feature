@@ -20,6 +20,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import com.demoshop.utilities.XLS_Reader;
@@ -512,5 +513,18 @@ public class SelLibrary {
 		}
 		return el;
 	}
+	
+	//Sort by values or filter
+		public void sort_by(String xpath, String ObjName) {
+			
+			try {
+				
+				Select dropdown = new Select(driver.findElement(By.xpath(xpath)));
+				dropdown.selectByVisibleText(ObjName);
+				testLog.info("Clicked sortBy value" + ObjName);
+			} catch (Exception e) {
+				testLog.error("Element not found" + ObjName);
+			}
+		}
 
 }
