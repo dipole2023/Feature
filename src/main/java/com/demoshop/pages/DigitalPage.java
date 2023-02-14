@@ -3,6 +3,8 @@ import com.demoshop.main.FunLibrary;
 
 public class DigitalPage extends FunLibrary {
 
+	
+	
 	/**
 	 * Click on the Digital Downloads tab
 	 */
@@ -24,15 +26,32 @@ public class DigitalPage extends FunLibrary {
 		return this;
 	}
 	
-	
 	public DigitalPage sortByPriceLowHigh() {
 		sort_by(OR_OR.getProperty("sortby"), "Price: Low to High");
 		return this;
 	}
 	
-	public DigitalPage selectMusic10Dollars() {
-		Click_Button_Xpath(OR_OR.getProperty("music2$10"), "music2-$10");
+	/**
+	 * 
+	 * @param products in the digital downloads page
+	 * -music$10 = Music 2 $10
+	 * -music$3 = Music 2 $3
+	 * -album3 = 3rd Album
+	 * @return selects the specified value in the param
+	 */
+	public DigitalPage selectProduct(String product) {
+		Click_Button_Xpath(OR_OR.getProperty(product), product);
 		return this;
 	}
+	
+	
+	public DigitalPage enterQty(String qty) {
+		//clear quantity field & enter 2 for qty
+		Clear_Text("quantity", "quantity");
+		Sendkey_xpath(OR_OR.getProperty("quantity"), qty, "quantity");
+		return this;
+	}
+	
+	
 	
 }
