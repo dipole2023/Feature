@@ -20,7 +20,7 @@
 		</classes>
 	</test> -->
 
-	 	<test name="Computer Tests">
+	 <!--	<test name="Computer Tests">
 	 		<parameter name="sheetname" value="ComputerPageTests" />
 	 		<classes>
 	 			<class name="com.demoshop.tests.ComputerPageTests">
@@ -29,6 +29,18 @@
 	 				</methods>
 	 			</class>
 	 		</classes>
-	 	</test>
+	 	</test> -->
+	 	
+	 	<test name="Digital download page">
+	<parameter name="sheetname" value="DigitalPageTest"></parameter>
+		<classes>
+			<class name="com.demoshop.tests.DigitalPageTest">
+				<methods>
+					<include name="verifyDigitalPage">
+					</include>
+				</methods>
+			</class>
+		</classes>
+	</test>
 
 </suite>

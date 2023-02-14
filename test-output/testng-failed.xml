@@ -2,19 +2,19 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite thread-count="1" parallel="tests" name="Failed suite [Sanity Test Suite]" guice-stage="DEVELOPMENT">
   <parameter name="browser" value="Chrome"/>
-  <parameter name="sheetname" value="ComputerPageTests"/>
+  <parameter name="sheetname" value="DigitalPageTest"/>
   <listeners>
     <listener class-name="com.demoshop.utilities.Reporting"/>
     <listener class-name="com.demoshop.utilities.AnnotationTransformer"/>
   </listeners>
-  <test name="Computer Tests">
-    <parameter name="sheetname" value="ComputerPageTests"/>
+  <test name="Digital download page">
+    <parameter name="sheetname" value="DigitalPageTest"/>
     <classes>
-      <class name="com.demoshop.tests.ComputerPageTests">
+      <class name="com.demoshop.tests.DigitalPageTest">
         <methods>
-          <include name="pressComputerTab"/>
+          <include name="verifyDigitalPage"/>
         </methods>
-      </class> <!-- com.demoshop.tests.ComputerPageTests -->
+      </class> <!-- com.demoshop.tests.DigitalPageTest -->
     </classes>
-  </test> <!-- Computer Tests -->
+  </test> <!-- Digital download page -->
 </suite> <!-- Failed suite [Sanity Test Suite] -->

@@ -1,1 +1,7 @@
 /target/
+.classpath
+.project
+.js
+.css
+.png
+

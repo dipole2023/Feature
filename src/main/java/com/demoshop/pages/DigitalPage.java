@@ -30,4 +30,9 @@ public class DigitalPage extends FunLibrary {
 		return this;
 	}
 	
+	public DigitalPage selectMusic10Dollars() {
+		Click_Button_Xpath(OR_OR.getProperty("music2$10"), "music2-$10");
+		return this;
+	}
+	
 }

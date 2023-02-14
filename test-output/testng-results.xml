@@ -2,16 +2,16 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-10T04:19:05Z" name="Sanity Test Suite" finished-at="2023-02-10T04:19:28Z" duration-ms="22875">
+  <suite started-at="2023-02-14T07:23:47Z" name="Sanity Test Suite" finished-at="2023-02-14T07:23:59Z" duration-ms="11375">
     <groups>
     </groups>
-    <test started-at="2023-02-10T04:19:05Z" name="Computer Tests" finished-at="2023-02-10T04:19:28Z" duration-ms="22875">
-      <class name="com.demoshop.tests.ComputerPageTests">
-        <test-method is-config="true" signature="killProcesses()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-10T15:19:05Z" name="killProcesses" finished-at="2023-02-10T15:19:05Z" duration-ms="16" status="PASS">
+    <test started-at="2023-02-14T07:23:47Z" name="Digital download page" finished-at="2023-02-14T07:23:59Z" duration-ms="11375">
+      <class name="com.demoshop.tests.DigitalPageTest">
+        <test-method is-config="true" signature="killProcesses()[pri:0, instance:com.demoshop.tests.DigitalPageTest@2f67a4d3]" started-at="2023-02-14T18:23:47Z" name="killProcesses" finished-at="2023-02-14T18:23:47Z" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- killProcesses -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-10T15:19:05Z" name="beforeClass" finished-at="2023-02-10T15:19:08Z" duration-ms="3404" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.demoshop.tests.DigitalPageTest@2f67a4d3]" started-at="2023-02-14T18:23:47Z" name="beforeClass" finished-at="2023-02-14T18:23:49Z" duration-ms="1915" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -20,37 +20,37 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[ComputerPageTests]]>
+                <![CDATA[DigitalPageTest]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-10T15:19:08Z" name="beforeMethod" finished-at="2023-02-10T15:19:16Z" duration-ms="7432" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.demoshop.tests.DigitalPageTest@2f67a4d3]" started-at="2023-02-14T18:23:49Z" name="beforeMethod" finished-at="2023-02-14T18:23:56Z" duration-ms="6308" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.demoshop.tests.ComputerPageTests.purchaseCheapComputer() throws java.lang.Exception]]>
+                <![CDATA[public void com.demoshop.tests.DigitalPageTest.verifyDigitalPage() throws java.lang.Exception]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="purchaseCheapComputer()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-10T15:19:16Z" name="purchaseCheapComputer" description="GCL_AUT02 - Purchase a desktop computer." finished-at="2023-02-10T15:19:27Z" duration-ms="11462" status="PASS">
+        <test-method signature="verifyDigitalPage()[pri:0, instance:com.demoshop.tests.DigitalPageTest@2f67a4d3]" started-at="2023-02-14T18:23:56Z" name="verifyDigitalPage" description="DWS_AUTO1 - Verify digital download items and display" finished-at="2023-02-14T18:23:59Z" duration-ms="2930" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- purchaseCheapComputer -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-10T15:19:27Z" name="afterMethod" finished-at="2023-02-10T15:19:27Z" duration-ms="244" status="PASS">
+        </test-method> <!-- verifyDigitalPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.demoshop.tests.DigitalPageTest@2f67a4d3]" started-at="2023-02-14T18:23:59Z" name="afterMethod" finished-at="2023-02-14T18:23:59Z" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.demoshop.tests.ComputerPageTests@313b2ea6]" started-at="2023-02-10T15:19:27Z" name="afterTest" finished-at="2023-02-10T15:19:28Z" duration-ms="293" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.demoshop.tests.DigitalPageTest@2f67a4d3]" started-at="2023-02-14T18:23:59Z" name="afterTest" finished-at="2023-02-14T18:23:59Z" duration-ms="145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-      </class> <!-- com.demoshop.tests.ComputerPageTests -->
-    </test> <!-- Computer Tests -->
+      </class> <!-- com.demoshop.tests.DigitalPageTest -->
+    </test> <!-- Digital download page -->
   </suite> <!-- Sanity Test Suite -->
 </testng-results>

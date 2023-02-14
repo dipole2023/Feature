@@ -49,7 +49,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Sanity_Test_Suite" class="navigator-link ">
-                    <span>C:\Users\user\Documents\git\Main\Sanity.xml</span>
+                    <span>C:\mrbee\eclipse-workspace\Main\Sanity.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -102,7 +102,7 @@
                     <div class="method-list-content passed suite-Sanity_Test_Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Sanity_Test_Suite" title="com.demoshop.tests.ComputerPageTests" class="method navigator-link" hash-for-method="purchaseCheapComputer">purchaseCheapComputer</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Sanity_Test_Suite" title="com.demoshop.tests.DigitalPageTest" class="method navigator-link" hash-for-method="verifyDigitalPage">verifyDigitalPage</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Sanity_Test_Suite -->
@@ -120,16 +120,16 @@
           <div class="suite-Sanity_Test_Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">com.demoshop.tests.ComputerPageTests</span>
+              <span class="class-name">com.demoshop.tests.DigitalPageTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="purchaseCheapComputer">
-                  </a> <!-- purchaseCheapComputer -->
-                  <span class="method-name">purchaseCheapComputer</span>
+                  <a name="verifyDigitalPage">
+                  </a> <!-- verifyDigitalPage -->
+                  <span class="method-name">verifyDigitalPage</span>
                   <em>
-(GCL_AUT02 - Purchase a desktop computer.)                  </em>
+(DWS_AUTO1 - Verify digital download items and display)                  </em>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -137,7 +137,7 @@
         </div> <!-- panel Sanity_Test_Suite -->
         <div panel-name="test-xml-Sanity_Test_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\user\Documents\git\Main\Sanity.xml</span>
+            <span class="header-content">C:\mrbee\eclipse-workspace\Main\Sanity.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -149,16 +149,16 @@
     &lt;listener class-name=&quot;com.demoshop.utilities.Reporting&quot;/&gt;
     &lt;listener class-name=&quot;com.demoshop.utilities.AnnotationTransformer&quot;/&gt;
   &lt;/listeners&gt;
-  &lt;test name=&quot;Computer Tests&quot;&gt;
-    &lt;parameter name=&quot;sheetname&quot; value=&quot;ComputerPageTests&quot;/&gt;
+  &lt;test name=&quot;Digital download page&quot;&gt;
+    &lt;parameter name=&quot;sheetname&quot; value=&quot;DigitalPageTest&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.demoshop.tests.ComputerPageTests&quot;&gt;
+      &lt;class name=&quot;com.demoshop.tests.DigitalPageTest&quot;&gt;
         &lt;methods&gt;
-          &lt;include name=&quot;pressComputerTab&quot;/&gt;
+          &lt;include name=&quot;verifyDigitalPage&quot;/&gt;
         &lt;/methods&gt;
-      &lt;/class&gt; &lt;!-- com.demoshop.tests.ComputerPageTests --&gt;
+      &lt;/class&gt; &lt;!-- com.demoshop.tests.DigitalPageTest --&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- Computer Tests --&gt;
+  &lt;/test&gt; &lt;!-- Digital download page --&gt;
 &lt;/suite&gt; &lt;!-- Sanity Test Suite --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -170,7 +170,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Computer Tests (1 class)</span>
+                <span class="test-name">Digital download page (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -198,14 +198,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'purchaseCheapComputer')
-data.setCell(0, 2, 'com.demoshop.tests.ComputerPageTests')
-data.setCell(0, 3, 11462);
+data.setCell(0, 1, 'verifyDigitalPage')
+data.setCell(0, 2, 'com.demoshop.tests.DigitalPageTest')
+data.setCell(0, 3, 2930);
 window.suiteTableData['Sanity_Test_Suite']= { tableData: data, tableDiv: 'times-div-Sanity_Test_Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 11 seconds</span>
+              <span class="suite-total-time">Total running time: 2 seconds</span>
               <div id="times-div-Sanity_Test_Suite">
               </div> <!-- times-div-Sanity_Test_Suite -->
             </div> <!-- times-div -->
@@ -220,9 +220,16 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Sanity_Test_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">0 ignored methods</span>
+            <span class="header-content">1 ignored method</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.demoshop.tests.DigitalPageTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">sortByLowToHigh</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="chronological-Sanity_Test_Suite" class="panel">
@@ -231,30 +238,30 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.demoshop.tests.ComputerPageTests</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.demoshop.tests.DigitalPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
                 <span class="method-name">killProcesses</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
               <div class="configuration-class before">
-                <span class="method-name">beforeClass(Chrome, ComputerPageTests)</span>
-                <span class="method-start">35 ms</span>
+                <span class="method-name">beforeClass(Chrome, DigitalPageTest)</span>
+                <span class="method-start">18 ms</span>
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
-                <span class="method-name">beforeMethod(public void com.demoshop.tests.ComputerPageTests.purchaseCheapComputer() throws java.lang.Exception)</span>
-                <span class="method-start">3457 ms</span>
+                <span class="method-name">beforeMethod(public void com.demoshop.tests.DigitalPageTest.verifyDigitalPage() throws java.lang.Exception)</span>
+                <span class="method-start">1936 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">purchaseCheapComputer</span>
-                <span class="method-start">10889 ms</span>
+                <span class="method-name">verifyDigitalPage</span>
+                <span class="method-start">8244 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod</span>
-                <span class="method-start">22360 ms</span>
+                <span class="method-start">11181 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">22605 ms</span>
+                <span class="method-start">11241 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

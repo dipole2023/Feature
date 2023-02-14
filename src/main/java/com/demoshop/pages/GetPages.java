@@ -7,6 +7,7 @@ public class GetPages {
 	private LoginPage loginPage = null;
 	private HomePage homePage = null;
 	private ComputerPage computerPage = null;
+	private DigitalPage digitalPage = null;
 
 	// Login Page
 	public LoginPage getLoginPage() {
@@ -35,4 +36,13 @@ public class GetPages {
 			return computerPage;
 		}
 	}
+	
+	//Digital Download page
+		public DigitalPage getDigitalPage() {
+			if (digitalPage == null) {
+				return new DigitalPage();
+			} else {
+				return digitalPage;
+			}
+		}
 }
