@@ -44,7 +44,11 @@ public class DigitalPage extends FunLibrary {
 		return this;
 	}
 	
-	
+	/**
+	 * Clears the qty field and then passes the specified qty into the field
+	 * @param qty for the quantity field in the selected product page
+	 * @return specified qty into qty field of web-app
+	 */
 	public DigitalPage enterQty(String qty) {
 		//clear quantity field & enter 2 for qty
 		Clear_Text("quantity", "quantity");
