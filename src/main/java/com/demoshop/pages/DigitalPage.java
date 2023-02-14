@@ -49,13 +49,20 @@ public class DigitalPage extends FunLibrary {
 	 * @param qty for the quantity field in the selected product page
 	 * @return specified qty into qty field of web-app
 	 */
-	public DigitalPage enterQty(String qty) {
+	public DigitalPage enterQty(Integer qty) {
 		//clear quantity field & enter 2 for qty
 		Clear_Text("quantity", "quantity");
-		Sendkey_xpath(OR_OR.getProperty("quantity"), qty, "quantity");
+		Sendkey_xpath(OR_OR.getProperty("quantity"), qty.toString(), "quantity");
 		return this;
 	}
 	
-	
+	/**
+	 * 
+	 * @return click/select the add to cart button
+	 */
+	public DigitalPage addToCart() {
+		Click_Button_Xpath("addtocart", "Add to cart");
+		return this;
+	}
 	
 }
