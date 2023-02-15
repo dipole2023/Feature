@@ -65,4 +65,8 @@ public class DigitalPage extends FunLibrary {
 		return this;
 	}
 	
+	public DigitalPage calculateTotal() {
+		get_xpath_text("unitprice", "Unit price");
+	}
+	
 }
